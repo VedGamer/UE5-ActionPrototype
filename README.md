@@ -6,6 +6,7 @@ A third-person action prototype built in Unreal Engine 5, developed by following
 - **Dash mechanic** — quick directional movement ability
 - **Coin collection** — pickup system with trigger-based collision detection
 - **Enemy hit detection** — collision-based hit registration with knockback feedback
+- **Character animations** — animation blending/state handling for movement and combat
 
 ## Built With
 - Unreal Engine 5
